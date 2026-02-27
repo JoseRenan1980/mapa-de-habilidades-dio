@@ -6,6 +6,31 @@ remuneradas
 
 ------------------------------------------------------------------------
 
+![Bootcamp](https://img.shields.io/badge/Bootcamp-DIO-blue)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Markdown](https://img.shields.io/badge/Documentação-Markdown-lightgrey)
+![Projeto Acadêmico](https://img.shields.io/badge/Tipo-Projeto%20Acadêmico-orange)
+
+
+## 🔎 Sobre este projeto
+
+Este repositório documenta o desafio de projeto do Bootcamp Caixa – Inteligência Artificial na Prática (DIO), no qual foram identificadas habilidades pessoais com potencial de monetização, analisadas oportunidades de mercado e definido um plano estruturado de atuação profissional com apoio da Inteligência Artificial.
+
+
+------------------------------------------------------------------------
+
+## 📑 Sumário
+
+- [🔎 Etapa 1 – Inventário de Habilidades](#-etapa-1--inventário-de-habilidades)
+- [📊 Etapa 2 – Cruzamento com Necessidades do Mercado](#-etapa-2--cruzamento-com-necessidades-do-mercado)
+- [🚀 Etapa 3 – Caminhos de Monetização](#-etapa-3--caminhos-de-monetização)
+- [📈 Próximos Passos de Crescimento](#-próximos-passos-de-crescimento)
+- [📎 Material Complementar](#-material-complementar)
+- [✅ Conclusão](#-conclusão)
+
+------------------------------------------------------------------------
+
+
 # 🔎 Etapa 1 -- Inventário de Habilidades
 
 ## 🧠 Habilidades Técnicas

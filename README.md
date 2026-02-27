@@ -182,3 +182,11 @@ para pequenos negócios e pessoas com dificuldade em organização digital.
 
 Com apoio da Inteligência Artificial, é possível estruturar, automatizar
 e oferecer esses serviços de forma escalável.
+
+------------------------------------------------------------------------
+
+## 📎 Material Complementar
+
+Você pode visualizar a versão em PDF deste projeto clicando abaixo:
+
+[📄 Baixar versão em PDF](./mapa-de-habilidades-dio.pdf)
